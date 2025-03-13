@@ -4,7 +4,9 @@ A **React Native** app built with **Expo** that fetches and displays user inform
 ---
 
 ## **📷 Preview**  
-🎥 **Watch the Demo Video** 👉 *(Video link will be added in the next update)*  
+🎥 **Watch the Demo Video** 👉 
+
+https://github.com/user-attachments/assets/ee495a31-d6c7-4d82-8449-c6e825040a90
 
 ---
 
@@ -112,3 +114,17 @@ npx expo start
     "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
   }
   ```
+
+  🚀 Future Scope & Next Steps
+
+✅ User Search & Filtering – Allow users to search by name, email, or username.
+✅ Favorite Users – Save favorite profiles locally for quick access.
+✅ Dark Mode Support – Enhance UI with light & dark themes.
+✅ Better Error Handling – Improve handling of API failures & loading states.
+✅ Pagination Instead of Preloading – Load users dynamically instead of all at once.
+✅ Improve UI with better styling and animations.
+
+📬 Contact
+
+🔹 Name: Manish Singh Suyal
+🔹 Email: manishsuyal951@gmail.com
