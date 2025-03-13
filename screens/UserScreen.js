@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect } from "react"
 import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator, SafeAreaView, ScrollView } from "react-native"
 import { fetchUsers } from "../services/api"
