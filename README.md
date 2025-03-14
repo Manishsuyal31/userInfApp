@@ -59,7 +59,7 @@ npm install -g expo-cli
 
 ### **2️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/YOUR-USERNAME/UserInfApp.git  
+git clone https://github.com/Manishsuyal31/UserInfApp.git  
 cd UserInfApp  
 ```
 
@@ -114,17 +114,20 @@ npx expo start
     "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
   }
   ```
+---
 
-  🚀 Future Scope & Next Steps
+## **🚀 Future Scope & Next Steps**
 
-✅ User Search & Filtering – Allow users to search by name, email, or username.
-✅ Favorite Users – Save favorite profiles locally for quick access.
-✅ Dark Mode Support – Enhance UI with light & dark themes.
-✅ Better Error Handling – Improve handling of API failures & loading states.
-✅ Pagination Instead of Preloading – Load users dynamically instead of all at once.
-✅ Improve UI with better styling and animations.
+✅ **User Search & Filtering** – Allow users to search by name, email, or username.\
+✅ **Favorite Users** – Save favorite profiles locally for quick access.\
+✅ **Dark Mode Support** – Enhance UI with light & dark themes.\
+✅ **Better Error Handling** – Improve handling of API failures & loading states.\
+✅ **Pagination Instead of Preloading** – Load users dynamically instead of all at once.\
+✅ **Improve UI with better styling and animations** – Enhance the app's UI with modern styling techniques and smooth animations.
 
-📬 Contact
+---
 
-🔹 Name: Manish Singh Suyal
-🔹 Email: manishsuyal951@gmail.com
+## **📬 Contact**
+
+🔹 **Name:** Manish Singh Suyal\
+🔹 **Email:** manishsuyal951@gmail.com
